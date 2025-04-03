@@ -1,0 +1,10 @@
+Public class Hello
+{
+Public void string main(String args[]);
+}
+System.out.println("Kits");
+}
+}
+
+
+
